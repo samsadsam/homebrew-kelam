@@ -7,8 +7,8 @@
 class Kelam < Formula
   desc "Build and run voice AI agents from the terminal"
   homepage "https://kelam.sh"
-  url "https://files.pythonhosted.org/packages/17/e2/877d9629739fe61d125d398ea48103319f986507a39b8f6aa2c90dd4113a/kelam-0.10.0.tar.gz"
-  sha256 "08b71774a263c1f7e2297d8a63d15729794b76c5f428b9a23ebdd05bb35dc85f"
+  url "https://files.pythonhosted.org/packages/38/01/912d3143b36982530b6118416f27189623102cdd0ad032e175eb2728cddc/kelam-0.11.0.tar.gz"
+  sha256 "3bf6274161daf02807b7972a3b0cbbad2bdf04397e2d304136966d17a60382e9"
 
   depends_on "python@3.13"
 
